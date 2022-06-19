@@ -1,5 +1,5 @@
 ---
   java_app:
-    hosts: centos
+    hosts: 
       localhost:
-        ansible_connection: docker
+        ansible_connection: local
